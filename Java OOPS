@@ -1,0 +1,28 @@
+Class Properties:
+	- fields
+	- initializers
+		- constructors
+		- blocks
+	- methods
+	- inner/nested classes
+	
+	
+Class Fields(Variables):
+	- non-static fields
+	- static fields
+
+Class methods:
+	- non-static methods
+	- static methods
+	
+Class Initializers:
+	- constructors
+	- static block
+
+Constructor and Types:
+	- default/zero-parameterized constructor
+	- parameterized constructor
+
+Keywords:
+  - static
+  - this
